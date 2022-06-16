@@ -1,0 +1,16 @@
+nav a span{
+    vertical-align: middle;
+    font-weight: 800;
+    font-size: larger;
+    color:rgb(240, 141, 21);
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+.nav-container{
+    align-items: center;
+    justify-content: center;
+}
+

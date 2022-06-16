@@ -1,0 +1,11 @@
+.menu-container{
+    background-color:lightslategray;
+    padding: 20px;
+}
+.menu-container input{
+    padding: 3px;
+    border-radius: 5px solid;
+}
+.meal-container{
+    margin-top: 50px;
+}
