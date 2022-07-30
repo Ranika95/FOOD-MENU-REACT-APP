@@ -12,7 +12,7 @@ const Meal = (props) => {
                     <p className="card-text text-start">Category: {strCategory}</p>
                     <p className="card-text text-start">Origin: {strArea}</p>
                     <div className='text-start'>
-                        <button onClick={() => props.handleDetails(props.meal)} type="button" class="btn btn-warning">Show Details</button>
+                        <button onClick={() => props.handleDetails(props.meal)} type="button" className="btn btn-warning">Show Details</button>
                     </div> 
                 </div>
             </div>
